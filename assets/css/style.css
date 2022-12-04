@@ -1,0 +1,10 @@
+:root, :root::after, :root::before {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+#canvas {
+    border: 1px solid black;
+    height: 150px;
+    width: 300px;
+}
